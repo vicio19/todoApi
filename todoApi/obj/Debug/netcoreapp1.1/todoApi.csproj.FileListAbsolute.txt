@@ -7,3 +7,12 @@ E:\pruebasC\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.csprojResolveAssembl
 E:\pruebasC\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.AssemblyInfo.cs
 E:\pruebasC\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.dll
 E:\pruebasC\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.pdb
+E:\pruebas\todoApi\todoApi\bin\Debug\netcoreapp1.1\todoApi.deps.json
+E:\pruebas\todoApi\todoApi\bin\Debug\netcoreapp1.1\todoApi.runtimeconfig.json
+E:\pruebas\todoApi\todoApi\bin\Debug\netcoreapp1.1\todoApi.runtimeconfig.dev.json
+E:\pruebas\todoApi\todoApi\bin\Debug\netcoreapp1.1\todoApi.dll
+E:\pruebas\todoApi\todoApi\bin\Debug\netcoreapp1.1\todoApi.pdb
+E:\pruebas\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.csprojResolveAssemblyReference.cache
+E:\pruebas\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.AssemblyInfo.cs
+E:\pruebas\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.dll
+E:\pruebas\todoApi\todoApi\obj\Debug\netcoreapp1.1\todoApi.pdb

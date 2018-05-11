@@ -9834,10 +9834,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\pruebasC\\todoApi\\todoApi\\todoApi.csproj",
+      "projectUniqueName": "E:\\pruebas\\todoApi\\todoApi\\todoApi.csproj",
       "projectName": "todoApi",
-      "projectPath": "E:\\pruebasC\\todoApi\\todoApi\\todoApi.csproj",
-      "outputPath": "E:\\pruebasC\\todoApi\\todoApi\\obj\\",
+      "projectPath": "E:\\pruebas\\todoApi\\todoApi\\todoApi.csproj",
+      "outputPath": "E:\\pruebas\\todoApi\\todoApi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
